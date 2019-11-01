@@ -1,5 +1,5 @@
 # Bruninho Boy
-#### Proposta
+### **Proposta**
 Esse site foi feito para complementar o trabalho de Literatura do professor Bruno Carvalho (Bruninho Boy).
 
 Nele se encontram os conceitos de **Barroco e Arcadismo**, como também, uma comparação entre eles.
@@ -11,7 +11,7 @@ Além disso, foram utilizados como exemplo, pinturas das épocas, sendo elas:
 - A Despedida de Telêmaco e Eucharis (Kacques-Louis Davvid) - Arcadismo
 - Portrait of Winckelmann (Angelika Kauffmann) - Arcadismo
 
-#### Fontes
+### **Fontes**
 Para o desenvolvimento desse site, utilizamos as seguintes fontes:
 - https://www.educamaisbrasil.com.br/enem/artes/barroco
 - https://www.todamateria.com.br/arcadismo-no-brasil/
