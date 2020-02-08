@@ -1,6 +1,6 @@
 # Bruninho Boy
 ### **Proposta**
-Esse site foi feito para complementar o trabalho de Literatura do professor Bruno Carvalho (Bruninho Boy).
+Esse site foi feito para complementar o trabalho de Literatura do professor Bruno Carvalho.
 
 Nele se encontram os conceitos de **Barroco e Arcadismo**, como também, uma comparação entre eles.
 
